@@ -1,0 +1,24 @@
+{
+    "faq":[
+        {
+            "question": "What services does JungleGigs offer to schools?",
+            "answer": "JungleGigs provides Learning Management System (LMS) services tailored for educational institutions, enabling effective online learning and management."
+        },
+        {
+            "question": "Can JungleGigs help with fee billing for schools?",
+            "answer": "Yes, we offer specialized billing software that simplifies the process of managing school fees and payments efficiently."
+        },
+        {
+            "question": "What types of competitions does JungleGigs organize?",
+            "answer": "We organize various events including hackathons, sports competitions, and national-level olympiads to engage students in practical learning experiences."
+        },
+        {
+            "question": "Who can participate in the events organized by JungleGigs?",
+            "answer": "Our events are designed for students from different levels, allowing them to showcase their skills and creativity across various domains."
+        }, 
+        {
+            "question": "How can I get started with your LMS or billing solutions at my school?",
+            "answer": "You can contact us directly through our website or schedule a demo where we will assist you in understanding how our solutions can be integrated into your school's system."
+        }
+    ]
+}
