@@ -3,9 +3,9 @@ import React from "react";
 const Navigation = ({ isOpen }) => {
   return (
     <div
-      className={`w-full bg-black transform ${
-        isOpen ? "translate-x-0" : "-translate-x-full"
-      } transition-transform duration-500 ease-in-out text-white z-50 fixed top-[88px] h-[100vh]`}
+      className={`fixed top-0 right-0 h-screen w-full bg-black transform ${
+        isOpen ? "translate-x-0" : "translate-x-full"
+      } transition-transform duration-500 ease-in-out text-white z-40`}
     >
       <div className="p-[11vh_10vw_6vh]">
         <div className="flex flex-col">

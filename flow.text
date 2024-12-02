@@ -231,3 +231,22 @@ Register -> Access learning modules -> Track grades -> Participate in gamified a
 Teacher:
 Login -> Class creation -> Upload materials -> Monitor performance -> Communicate.
 
+
+
+ <h1 className="text-[2.125rem] tablet:text-[4rem] desktop:text-[5rem] font-extrabold text-center font-[Walsheim, Arial, sans-serif] m-0 leading-[113%] whitespace-pre-line text-white">
+            <span className="relative z-[2]">
+              The community platform for
+              <span className="block">
+                <span
+                  key={currentText} // This will reset the animation every time the text changes
+                  className="text-[#faf118] inline-block  overflow-hidden border-r-4 border-[#faf118] animate-typing"
+                >
+                  {currentText}
+                </span>
+              </span>
+            </span>
+          </h1>
+           <p className="text-xl font-light text-center font-mulish m-0 leading-[1.375] whitespace-pre-line text-white">
+          What’s possible when a paid membership, online courses, challenges, or
+          events are powered by AI? Your community essentially runs itself.
+        </p>
