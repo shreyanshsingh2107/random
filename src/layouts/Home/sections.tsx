@@ -20,7 +20,7 @@ const Section = ({ props, imageAlign }) => {
             {description}
           </p>
           <div className="inline-block m-1">
-                <button className="flex font-medium truncate font-sans rounded-lg flex-row gap-2 items-center justify-center h-[40px] py-2 text-sm px-3 bg-[#0E9F6E] hover:bg-[#0c865c] text-white service-button hide-on-proposal">{cta_text}</button>
+                <a href="/contact" className="flex font-medium truncate font-sans rounded-lg flex-row gap-2 items-center justify-center h-[40px] py-2 text-sm px-3 bg-[#0E9F6E] hover:bg-[#0c865c] text-white service-button hide-on-proposal">{cta_text}</a>
           </div>
           
         </div>

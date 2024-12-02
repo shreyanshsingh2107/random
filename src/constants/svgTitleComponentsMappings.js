@@ -5,6 +5,9 @@ import { ReactComponent as InstagramIcon } from "../assets/social/instagram.svg"
 import { ReactComponent as linkdin } from "../assets/social/linkdin.svg";
 import { ReactComponent as doubleQuote } from "../assets/svg/doubleQuote.svg"
 import { ReactComponent as accordian } from "../assets/svg/accordian.svg"
+import { ReactComponent as cross } from "../assets/svg/cross.svg"
+import { ReactComponent as menu } from "../assets/svg/menu.svg"
+
 
 export const svgTitleComponentsMappings = {
   facebook: FacebookIcon,
@@ -14,4 +17,6 @@ export const svgTitleComponentsMappings = {
   linkdin: linkdin,
   doubleQuote:doubleQuote,
   accordian:accordian,
+  cross: cross,
+  menu:menu,
 };

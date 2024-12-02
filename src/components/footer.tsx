@@ -1,5 +1,5 @@
 import React from "react";
-import SvgWrapper from "../components/core/svgWrapper/SvgWrapper"
+import SvgWrapper from "./core/svgWrapper/SvgWrapper"
 
 const Footer = () => {
   return (
